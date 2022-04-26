@@ -1,0 +1,30 @@
+# Python extras.
+.ipynb_checkpoints/
+__pycache__/
+.coverage
+
+# Log file.
+*.log
+
+# Figures.
+figures/
+*.pdf
+*.png
+
+# Movies.
+*.avi
+*.mp4
+*.mov
+*.gif
+
+# Data files.
+*.h5
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+
+# Mac extras.
+.DS_Store
+
